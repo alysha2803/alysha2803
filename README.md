@@ -47,4 +47,4 @@ Hi! I'm **Alysha**, a final year SE undergraduate. I enjoy doing mobile app deve
 
 Thanks for visiting! <img src="https://media.giphy.com/media/YpK54yCGgHTL73614p/giphy.gif" height="22px" valign="middle">
 
-![image](https://media.giphy.com/media/8IIV99S5P5deIbItWO/giphy.gif) 
+<img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif">
