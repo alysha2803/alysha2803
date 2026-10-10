@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **alysha2803/alysha2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![My Image](banner.png)
+
+# Introduction
+Hi! I'm Alysha, a final year SE undergraduate. I enjoy doing mobile app development and security, but always open to new areas to learn. 
+
+- ❤️ **Hobby**: I play Roblox and my miniatures when I'm not doing CS related stuff :3
+- 📖 **Course expectations**: For this semester, I am taking the Software Maintenance and Evolution course. I am expecting to learn about practices after deploying/delivering a software, what can we do to ensure its scalability, organisation of update management in the future, including how to make it stay relevant to the users.
+
+- 🔗 **Let's Connect!**
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/alyshahannani/
